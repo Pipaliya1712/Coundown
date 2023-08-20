@@ -22,5 +22,3 @@ setInterval(
         clock()
     },1000
 )
-
-// min 
